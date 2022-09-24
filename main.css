@@ -48,7 +48,7 @@ h1,h2,h3,h4,h5,h6,p {
   margin:48px 0;}
 a {color:inherit;}
 .heading-branding {font-size:24px;text-decoration: none;}
-.heading-intro {font-size: clamp(1.25rem, 7vw, 5.5rem)}
+.heading-intro {font-size: clamp(1.25rem, 8vw, 5.5rem)}
 .wide {letter-spacing:2px;}
 .emoji {font-family:"Noto Emoji",sans-serif;font-weight: 300;}
 
